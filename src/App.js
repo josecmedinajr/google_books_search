@@ -9,7 +9,7 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
           Google Books Search is coming soon!<br></br><br></br>
-          ...in the mean time, please check out my personal project:
+          ...in the meantime, please check out my personal project:
         </p>
         <a
           className="App-link"
